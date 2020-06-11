@@ -25,6 +25,4 @@ they should pursue formal clinical diagnosis.
 - Comparing all the classifiers, Logistic regression and SVM have the best performance
 - Linear Regression, KNN and Naïve Bayes have their shortcomings
 
-![ROC comparison](./images/8.png)
-
-![PRC comparison](./images/9.png)
+<img src="./images/8.png" alt="drawing" width="350"/>        <img src="./images/9.png" alt="drawing" width="350"/>
